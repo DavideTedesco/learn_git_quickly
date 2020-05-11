@@ -11,7 +11,8 @@
 - clone a repository with: `git clone`
 - update a repository with: `git pull`
 - commmit to a repository with: `git commit -am "insert here your comment"`
-- after a commit you need to push your files into the repository via this command: `git push`
+- after you've added one or multiple files to a folder you must type `git add .` to show git the fact that you want to add them remotely 
+- after a _commit_ or an _add_ you need to push your files into the repository via this command: `git push`
 
 ## MarkDown files
 READMEs are in .md (markdown)
