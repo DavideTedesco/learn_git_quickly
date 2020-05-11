@@ -10,7 +10,7 @@
 
 - clone a repository with: `git clone`
 - update a repository with: `git pull`
-- commmit to a repository with: `git commit -am "insert here your comment"'
+- commmit to a repository with: `git commit -am "insert here your comment"`
 - after a commit you need to push your files into the repository via this command: `git push`
 
 ## MarkDown files
