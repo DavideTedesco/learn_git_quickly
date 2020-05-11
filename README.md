@@ -10,4 +10,5 @@
 
 - clone a repository with `git clone`
 - update a repository with `git pull`
-- commmit to a repository with `git commit -am "insert here your comment"
+- commmit to a repository with `git commit -am "insert here your comment"'
+
