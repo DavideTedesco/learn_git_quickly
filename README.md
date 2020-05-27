@@ -17,4 +17,5 @@
 ## MarkDown files
 READMEs are in .md (markdown)
 - [Learn how to use md as fast as possibile](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Useful markdown syntax tips](https://www.markdownguide.org/basic-syntax/)
 
