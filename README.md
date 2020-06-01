@@ -20,4 +20,5 @@ READMEs are in .md (markdown)
 - [Useful markdown syntax tips](https://www.markdownguide.org/basic-syntax/)
 - [Apply colors to markdown files](https://stackoverflow.com/questions/35465557/how-to-apply-color-in-markdown)
 - [HTML colors](https://www.w3schools.com/colors/colors_hex.asp)
+- [Math Formulas in MarkDown](http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 
