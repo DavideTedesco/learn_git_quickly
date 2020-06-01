@@ -18,4 +18,6 @@
 READMEs are in .md (markdown)
 - [Learn how to use md as fast as possibile](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Useful markdown syntax tips](https://www.markdownguide.org/basic-syntax/)
+- [Apply colors to markdown files](https://stackoverflow.com/questions/35465557/how-to-apply-color-in-markdown)
+- [HTML colors](https://www.w3schools.com/colors/colors_hex.asp)
 
