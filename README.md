@@ -14,6 +14,8 @@
 - after you've added one or multiple files to a folder you must type `git add .` to show git the fact that you want to add them remotely 
 - after a _commit_ or an _add_ you need to push your files into the repository via this command: `git push`
 
+- [Create a folder in local and then connect it to your account on git](https://kbroman.org/github_tutorial/pages/init.html)
+
 ## MarkDown files
 READMEs are in .md (markdown)
 - [Learn how to use md as fast as possibile](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
