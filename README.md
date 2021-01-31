@@ -8,7 +8,7 @@
 
 ## The most important commands
 
-- clone a repository with: `git clone`
+- clone a repository with: `git clone http://www.thelinkyouwanttoclone.com.git`
 - update a repository with: `git pull`
 - commmit to a repository with: `git commit -am "insert here your comment"`
 - after you've added one or multiple files to a folder you must type `git add .` to show git the fact that you want to add them remotely 
