@@ -24,6 +24,7 @@ READMEs are in .md (markdown)
 - [HTML colors](https://www.w3schools.com/colors/colors_hex.asp)
 - [Math Formulas in MarkDown](http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 - [Mark Text: cool multiplatform Markdown editor](https://marktext.app/)
+- [Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 
 ## Master the art of .gitignore
 
