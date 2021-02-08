@@ -35,11 +35,11 @@ READMEs are in .md (markdown)
 ## Install Git
 ### Git on UNIX platforms
 
->Git is included in your terminal!
+Git is included in your terminal!
 
 ```Yes, macOs has already Git installed```
 ### Git on Windows
->Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to include Git on your machine, but you can remediate by downloading a terminal that will give you UNIX and commands powers:
+Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to include Git on your machine, but you can remediate by downloading a terminal that will give you UNIX and commands powers:
 [Git for Windows](https://gitforwindows.org/)
 
 ## History of Git
