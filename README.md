@@ -30,3 +30,4 @@ READMEs are in .md (markdown)
 
 - [What is a .gitgnore file?](https://git-scm.com/docs/gitignore)
 - [Remove all .DS_Store files from macOs uploads](https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in-every-folder-and-subfolder/38797342)
+- [Create .gitignore file online](https://www.toptal.com/developers/gitignore)
