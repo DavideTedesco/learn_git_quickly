@@ -31,3 +31,15 @@ READMEs are in .md (markdown)
 - [What is a .gitgnore file?](https://git-scm.com/docs/gitignore)
 - [Remove all .DS_Store files from macOs uploads](https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in-every-folder-and-subfolder/38797342)
 - [Create .gitignore file online](https://www.toptal.com/developers/gitignore)
+
+## Install Git
+### Git on UNIX platforms
+
+>Git is included in your terminal!
+
+```Yes, macOs has already Git installed```
+### Git on Windows
+>Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to include Git on your machine, but you can remediate by downloading a terminal that will give you UNIX and commands powers:
+[Git for Windows](https://gitforwindows.org/)
+
+## History of Git
