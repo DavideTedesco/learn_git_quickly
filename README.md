@@ -25,6 +25,7 @@ READMEs are in .md (markdown)
 - [Math Formulas in MarkDown](http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 - [Mark Text: cool multiplatform Markdown editor](https://marktext.app/)
 - [Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
+- [MarkDown file extensions](https://superuser.com/questions/249436/file-extension-for-markdown-files)
 
 ## Master the art of .gitignore
 
