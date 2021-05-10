@@ -47,4 +47,4 @@ Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to in
 
 ## Useful commands for `git commit`
 
-- [https://bytefreaks.net/programming-2/how-to-undo-a-git-commit-that-was-not-pushed](https://bytefreaks.net/programming-2/how-to-undo-a-git-commit-that-was-not-pushed)
+- [How to delete a commit not yet pushed](https://bytefreaks.net/programming-2/how-to-undo-a-git-commit-that-was-not-pushed)
