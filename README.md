@@ -44,3 +44,7 @@ Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to in
 [Git for Windows](https://gitforwindows.org/)
 
 ## History of Git
+
+## Useful commands for `git commit`
+
+- [https://bytefreaks.net/programming-2/how-to-undo-a-git-commit-that-was-not-pushed](https://bytefreaks.net/programming-2/how-to-undo-a-git-commit-that-was-not-pushed)
