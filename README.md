@@ -45,9 +45,10 @@ Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to in
 
 ## History of Git
 
-## Problems in Git
-
-- [`git error: RPC failed; HTTP 502 curl 22 The requested URL returned error: 502 Proxy Error`](https://stackoverflow.com/questions/50878840/git-error-rpc-failed-http-502-curl-22-the-requested-url-returned-error-502-pr
 ## Useful commands for `git commit`
 
 - [How to delete a commit not yet pushed](https://bytefreaks.net/programming-2/how-to-undo-a-git-commit-that-was-not-pushed)
+
+### Problems in Git commits
+
+- [git error: RPC failed; HTTP 502 curl 22 The requested URL returned error: 502 Proxy Error](https://stackoverflow.com/questions/50878840/git-error-rpc-failed-http-502-curl-22-the-requested-url-returned-error-502-pr
