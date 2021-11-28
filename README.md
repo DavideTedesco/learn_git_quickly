@@ -27,6 +27,8 @@ READMEs are in .md (markdown)
 - [Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 - [MarkDown file extensions](https://superuser.com/questions/249436/file-extension-for-markdown-files)
 - [Example markdown file](/example.md)
+- [Writing Notes in Markdown: A Primer](https://www.youtube.com/watch?v=NnCy7wJRgP0&ab_channel=EffectiveRemoteWork)
+- [Markdown made EASY](https://www.youtube.com/watch?v=-MVGwZUCrhk&ab_channel=howCode)
 
 ## Master the art of .gitignore
 
