@@ -30,6 +30,7 @@ READMEs are in .md (markdown)
 - [Writing Notes in Markdown: A Primer](https://www.youtube.com/watch?v=NnCy7wJRgP0&ab_channel=EffectiveRemoteWork)
 - [Markdown made EASY](https://www.youtube.com/watch?v=-MVGwZUCrhk&ab_channel=howCode)
 - to underline text in MarkDown use the HTML keystrokes: <u>underlined text</u> written as  `<u>underlined text</u>`
+- [The Markdown Guide](https://www.markdownguide.org/)
 
 ## Master the art of .gitignore
 
