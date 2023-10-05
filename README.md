@@ -57,6 +57,7 @@ Unfortunately [Bill](https://en.wikipedia.org/wiki/Bill_Gates) decided not to in
 ### Problems in Git commits
 
 - [git error: RPC failed; HTTP 502 curl 22 The requested URL returned error: 502 Proxy Error](https://stackoverflow.com/questions/50878840/git-error-rpc-failed-http-502-curl-22-the-requested-url-returned-error-502-pr)
+- [Introduction to undoing things in git Intro version control git](https://www.earthdatascience.org/workshops/intro-version-control-git/undoing-things/)
 
 ## Games to learn how to use Git
 
